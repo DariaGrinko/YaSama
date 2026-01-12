@@ -4,4 +4,4 @@ function countToNumber(n) {
   }
 }
 
-countToNumber(5);
+countToNumber(10);
